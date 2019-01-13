@@ -12,7 +12,7 @@ library(corrplot)
 library(Hmisc)
 
 # Loading Data
-data <- read.csv("C:/Users/orhan aydogdu/Desktop/R Project/data/StudentsPerformance.csv")
+data <- read.csv("StudentsPerformance.csv")
 View(data)
 
 # Count missing observations
